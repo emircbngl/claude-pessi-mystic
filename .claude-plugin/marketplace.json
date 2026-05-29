@@ -1,0 +1,30 @@
+{
+  "name": "pessi-mystic-marketplace",
+  "owner": {
+    "name": "emircbngl",
+    "url": "https://github.com/emircbngl"
+  },
+  "metadata": {
+    "description": "Claude Code plugin marketplace for pessi-mystic — a relentless pessimism and pre-mortem layer for Claude Code that enumerates every way a project, idea, or plan can fail.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "pessi-mystic",
+      "source": {
+        "source": "github",
+        "repo": "emircbngl/claude-pessi-mystic",
+        "ref": "main"
+      },
+      "description": "Claude Code plugin that turns Claude into a relentless pessimist and pre-mortem engine: understands your project/idea/codebase first, then exhaustively enumerates every failure mode and worst-case outcome across a full taxonomy, ranked by likelihood and impact. Pure doom — names what breaks, never how to fix it. Scales from a one-line idea to a whole repo via parallel failure-scouts.",
+      "version": "0.1.0",
+      "author": {
+        "name": "emircbngl",
+        "url": "https://github.com/emircbngl"
+      },
+      "homepage": "https://github.com/emircbngl/claude-pessi-mystic",
+      "repository": "https://github.com/emircbngl/claude-pessi-mystic",
+      "license": "MIT"
+    }
+  ]
+}

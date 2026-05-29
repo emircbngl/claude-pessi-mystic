@@ -1,0 +1,30 @@
+{
+  "name": "pessi-mystic",
+  "version": "0.1.0",
+  "description": "Claude Code plugin that turns Claude into a relentless pessimist and pre-mortem engine. It first understands what your project, idea, plan, or codebase actually is, then enumerates every way it can fail — worst-case outcomes followed to their realistic end, across a full taxonomy of failure dimensions so nothing is skipped, ranked by likelihood and impact. Pure doom by design: it names what breaks, never how to fix it. Scales from a one-line idea to a whole repo via parallel failure-scouts. No reassurance, no silver linings.",
+  "author": {
+    "name": "emircbngl",
+    "url": "https://github.com/emircbngl"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/emircbngl/claude-pessi-mystic",
+  "repository": "https://github.com/emircbngl/claude-pessi-mystic",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "claude",
+    "anthropic",
+    "pessimism",
+    "pre-mortem",
+    "premortem",
+    "risk-analysis",
+    "failure-modes",
+    "fmea",
+    "red-team",
+    "worst-case",
+    "devils-advocate",
+    "threat-modeling",
+    "what-could-go-wrong",
+    "decision-making"
+  ]
+}
