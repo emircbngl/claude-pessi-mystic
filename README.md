@@ -83,6 +83,12 @@ pessi-mystic/
 
 Unlike some plugins, this one ships **no hooks** and keeps **no state file**. Pessimism is a tool you reach for deliberately, not an always-on mood — an automatic doom-injector would just get in the way of normal work. And every invocation starts fresh: there's no risk ledger to maintain or drift out of date. You point it at something, it tears that thing apart, and it's done.
 
+## Star history
+
+<a href="https://star-history.com/#emircbngl/claude-pessi-mystic&Date">
+  <img src="https://api.star-history.com/svg?repos=emircbngl/claude-pessi-mystic&type=Date" alt="Star history chart for emircbngl/claude-pessi-mystic" width="640">
+</a>
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
